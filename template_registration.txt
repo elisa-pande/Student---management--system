@@ -1,0 +1,13 @@
+Registration Sheet
+
+Registration date: 
+Name: 
+Surname: 
+ID: 
+Phone number: 
+Email: 
+Available courses: 
+XXXXX
+Desired courses(The list of courses in order of priority): 
+
+
